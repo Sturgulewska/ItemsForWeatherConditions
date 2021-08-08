@@ -1,0 +1,15 @@
+{
+  "lat": 52.23,
+  "lon": 21.01,
+  "timezone": "Europe/Warsaw",
+  "current": {
+    "temp": 22.95,
+    "feels_like": 22.68,
+    "clouds": 0,
+    "wind_speed": 0.89,
+    "weather": {
+      "main": "Clear",
+      "description": "bezchmurnie"
+    }
+  }
+}
